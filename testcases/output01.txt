@@ -1,0 +1,98 @@
+-> Created new SmartArray of size 10.
+-> Created new SmartArray of size 10.
+
+-- SMART ARRAY 1: --
+Karan
+Kristjan
+Shahidul
+Rachael
+Daniel
+Fereshteh
+Richie
+Pierre
+
+-- SMART ARRAY 2 (First Names): --
+Pierre
+Richie
+Fereshteh
+Daniel
+Rachael
+Shahidul
+Kristjan
+Karan
+
+-- SMART ARRAY 2 (Last Names): --
+LaBorde
+Wales
+Jafariakinabad
+Mandragona
+Sera
+Islam
+Arumae
+Daei-Mojdehi
+
+-- COMBINED ARRAYS (First and Last Names): --
+Pierre LaBorde
+Richie Wales
+Fereshteh Jafariakinabad
+Daniel Mandragona
+Rachael Sera
+Shahidul Islam
+Kristjan Arumae
+Karan Daei-Mojdehi
+
+Adding Pierre to smarty1 ...
+Adding Richie to smarty1 ...
+-> Expanded SmartArray to size 21.
+Adding Fereshteh to smarty1 ...
+Adding Daniel to smarty1 ...
+Adding Rachael to smarty1 ...
+Adding Shahidul to smarty1 ...
+Adding Kristjan to smarty1 ...
+Adding Karan to smarty1 ...
+
+-- SMART ARRAY 1: --
+Karan
+Kristjan
+Shahidul
+Rachael
+Daniel
+Fereshteh
+Richie
+Pierre
+Pierre
+Richie
+Fereshteh
+Daniel
+Rachael
+Shahidul
+Kristjan
+Karan
+
+-- SMART ARRAY 1: --
+List of Names:
+Karan
+Kristjan
+Shahidul
+Rachael
+Daniel
+Fereshteh
+Richie
+Pierre
+Pierre
+Richie
+Fereshteh
+Daniel
+Rachael
+Shahidul
+Kristjan
+Karan
+
+-- SMART ARRAY 1: --
+(empty array)
+
+-- SMART ARRAY 1: --
+(empty array)
+
+-- SMART ARRAY 2: --
+(empty array)

@@ -1,0 +1,13 @@
+-> Created new SmartArray of size 10.
+-> Trimmed SmartArray to size 0.
+(empty array)
+Size of array: 0
+(empty array)
+Size of array: -1
+Awesome!
+-> Created new SmartArray of size 10.
+Hello,
+world!
+SmartArray contents:
+Hello,
+world!
